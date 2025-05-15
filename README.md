@@ -14,13 +14,12 @@ Funcionalidades avanzadas de moderación
 Completamente público  
 
 📌 **Añadir el bot:** [Folk Suggest](https://rebrand.ly/folkinvite)  
-📌 **Únete a la comunidad:** [Discord Oficial](https://rebrand.ly/folkdiscord)  
+📌 **Únete a mi comunidad:** [Discord Oficial](https://rebrand.ly/folkdiscord)  
 
-## 📜 Tecnologías y herramientas
+## 📜 Lenguajes
 - **Lenguajes:** JavaScript, TypeScript (básico), Java (básico)
 
 ## 📬 Contacto
 - Discord: **TryReturn**
-- GitHub: [TryReturn](https://github.com/TryReturn)  
 
 ¡Siempre abierto a nuevas colaboraciones y proyectos! 🚀
