@@ -21,5 +21,3 @@ Completamente público
 
 ## 📬 Contacto
 - Discord: **TryReturn**
-
-¡Siempre abierto a nuevas colaboraciones y proyectos! 🚀
